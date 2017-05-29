@@ -1,2 +1,2 @@
-# linear_regression
+# Linear Regression Example
 Linear Regression
