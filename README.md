@@ -1,6 +1,6 @@
 # Linear Regression Example
 Linear Regression
-Using dataset Boston house price 
-1) with sk-learn
-2) with gradient descent
+Using dataset Boston house price with
+1) sk-learn
+2) gradient descent
 3) tensor flow
